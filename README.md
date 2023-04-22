@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajanssingh Rajan Kumar Singh
 - 👀 I’m interested in Java Backend Related technologies and solving coding problems
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently learning Developing Microservices based applications using springboot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
