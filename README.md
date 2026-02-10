@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajanssingh Rajan Kumar Singh, Backend Engineer with ~5 years of experience building distributed, event-driven systems using Java and Spring Boot.
-- 👀 I’m interested in Java Backend Related technologies and solving coding problems
+- 👀 I’m interested in learning technologies and solving real life problems.
 - I work primarily on:
   1. Scalable microservices architectures
   2. Cloud-native deployments (AWS, Kubernetes)
